@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @branikeh
 - 👀 I’m interested in creating systems that ease the workflow of companies.
-- 🌱 I’m currently learning python and swift
+- 🌱 I’m currently learning python and node.js
 - 💞️ I’m looking to collaborate on nothing
 
 <!---
